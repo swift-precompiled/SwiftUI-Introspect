@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "SwiftUIIntrospect",
-            url: "https://github.com/swift-precompiled/SwiftUI-Introspect/releases/download/1.3.0/SwiftUIIntrospect-8b1ecb50f4d87c8fec981cec5c61bcc4e71dcb47911754caed3f742857f01bf8.xcframework.zip",
-            checksum: "8b1ecb50f4d87c8fec981cec5c61bcc4e71dcb47911754caed3f742857f01bf8"
+            url: "https://github.com/swift-precompiled/SwiftUI-Introspect/releases/download/1.3.0/SwiftUIIntrospect-aeb4c7a62ec5e2f95922d1365a4a25e746bac057c63f2c3df0dd177ab08e78c8.xcframework.zip",
+            checksum: "aeb4c7a62ec5e2f95922d1365a4a25e746bac057c63f2c3df0dd177ab08e78c8"
         ),
         .target(
             name: "SwiftUIIntrospect_PrecompiledProduct",
